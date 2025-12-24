@@ -7,7 +7,7 @@
 
 ## Video Walkthrough
 **Zoom / Loom Recording:**   
-
+https://www.icloud.com/iclouddrive/089W8dfKsh9NZsOOg3Xw_2fNg#video2000574760
 ---
 
 ## Project Overview
@@ -18,7 +18,7 @@ The Flask application is publicly accessible at: http://35.224.118.110:5003/
 ## Steps
 
 ### 1. VM Creation
-![VM_created](screenshots/vm_creation.png)
+![VM_created](screenshots/vmcreation.png)
 
 ### 2. Networking (Port 5003 Open) 
 ![Port_5003](screenshots/firewall.png)
