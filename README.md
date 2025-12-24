@@ -27,6 +27,8 @@ The Flask application is publicly accessible at: http://35.224.118.110:5003/
 - #### Commands
   - **Update OS:**  sudo apt update && sudo apt upgrade -y
   - **Insall Git, Python3 + pip:** sudo apt install git python3 python3-pip python3.13-venv -y
+![VM_created](screenshots/python.png)
+
 
 ### 4. Flask App Running 
 ![Flask_run](screenshots/flask.png)
