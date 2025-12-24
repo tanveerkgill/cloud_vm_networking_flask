@@ -3,7 +3,7 @@
 ## Student Information
 **Name:** Tanveer Kaur  
 **Cloud Provider:** Google Cloud Platform (GCP)  
-**VM Name:** flask-5003  
+**VM Name:** flask5003  
 
 ## Video Walkthrough
 **Zoom / Loom Recording:**   
